@@ -1,4 +1,11 @@
 {
+  "name": "yuu",
+  "version": "0.0.1",
+  "description": "noname",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "child_process": "^1.0.2"
   }
