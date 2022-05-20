@@ -115,7 +115,7 @@ main(){
 		elif [[ "$char" == "c" ]]; then printf "$cn";echo "$kredit"|less
 		elif [[ "$char" == "q" ]]; then printf "$cn\u1b";clear; exit
 		else
-			printf "\r\e[91m>\e[97m Key \e[93m${msg}\e[97m Not Found\e[0m"
+			printf "\r\e[91m>\e[97m Key \e[93m${char:-$msg}\e[97m Not Found\e[0m"
 		fi
 	done
 };
