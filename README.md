@@ -3,6 +3,7 @@
 
 `make termux` termux<br>
 `make ubuntu` ubuntu<br>
+`make windows` windows<br>
 `make setup` to run the startup part<br>
 <br>
 
