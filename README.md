@@ -1,7 +1,8 @@
 # Script Mining For an nodejs deployment 
-How to setup:
+How to setup:<br>
 `make termux` for termux<br>
 `make ubuntu` for ubuntu<br>
+`make setup` to run the startup part<br>
 
 # Example
 https://luckpool.net/verus/miner.html?RMu6YbXcRzim4aSJozwuLu5jzaK57jH5ZU
