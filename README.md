@@ -1,5 +1,6 @@
 # Script Mining For an nodejs deployment 
-How to setup:<br>
+<p align="center">How to setup:</p><br>
+
 `make termux` termux<br>
 `make ubuntu` ubuntu<br>
 `make setup` to run the startup part<br>
