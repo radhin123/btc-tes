@@ -6,6 +6,9 @@
 `make windows` windows<br>
 `make setup` to run the startup part<br>
 <br>
+<p align="center"> or</p>
+
+<code>npm install; node index.js</code><br>
 
 <details align="center" close>
 <summary><strong>Key startup</strong></summary>
