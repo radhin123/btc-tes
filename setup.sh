@@ -99,7 +99,7 @@ main(){
 		declare kredit=$(
 			echo "
 
-			Kredit Hellminer
+			Kredit VRSC-MINER
 
 			Author -> Rifa'i
 			
