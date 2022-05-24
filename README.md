@@ -8,7 +8,7 @@
 <br>
 <p align="center"> or</p>
 
-<code>npm install; node index.js</code><br>
+<p align="center"><code>npm install; node index.js</code></p><br>
 
 <details align="center" close>
 <summary><strong>Key startup</strong></summary>
